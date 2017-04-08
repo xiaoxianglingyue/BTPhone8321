@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="keybord">350dip</dimen>
+    <dimen name="iv_dial">72dip</dimen>
+    <dimen name="iv_dial_w">110dip</dimen>
+    <dimen name="iv_dial1">65dip</dimen>
+</resources>

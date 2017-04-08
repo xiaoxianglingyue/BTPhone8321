@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\contactss2.png",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-xhdpi\\contactss2.png"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bluetooth_devices1.png",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-xhdpi\\bluetooth_devices1.png"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\contactss1.png",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-xhdpi\\contactss1.png"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\keyboard1.png",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-xhdpi\\keyboard1.png"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\keyboard2.png",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-xhdpi\\keyboard2.png"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\bluetooth_devices2.png",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-xhdpi\\bluetooth_devices2.png"
+    }
+]

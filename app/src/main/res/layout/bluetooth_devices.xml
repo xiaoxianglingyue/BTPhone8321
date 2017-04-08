@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="260dip"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/layout_paired"
+            android:layout_width="260dip"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/tv_paridevices"
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:gravity="center"
+                android:text="@string/already_pari_mobile"
+                android:background="@drawable/bt_bg_selector1"
+                android:textColor="#ffffff"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/tv_connectdevices"
+                android:layout_width="match_parent"
+                android:layout_height="40dip"
+                android:gravity="center"
+                android:layout_marginTop="40dip"
+                android:layout_below="@id/tv_paridevices"
+                android:textColor="#ffffff"
+                android:textSize="20sp" />
+
+            <LinearLayout
+                android:id="@+id/layout_enterparimode"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/tv_connectdevices"
+                android:layout_marginTop="160dip"
+                android:background="@drawable/bt_bg_selector"
+                android:clickable="true"
+                android:gravity="center_horizontal"
+                android:onClick="click"
+                android:orientation="horizontal"
+                android:visibility="visible" >
+
+                <TextView
+                    android:id="@+id/ImageView01"
+                    android:layout_width="wrap_content"
+                    android:layout_height="40dip"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="@string/enter_pairing_mode"
+                    android:textColor="#ffffff"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <!--
+               <Button
+                android:id="@+id/button1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@+id/lv_devices"
+                android:layout_marginLeft="44dp"
+                android:onClick="reqMAC"
+                android:text="Button" />
+            -->
+        </RelativeLayout>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/iv_line"
+        android:layout_width="1dip"
+        android:layout_height="match_parent"
+        android:layout_marginTop="0dip"
+        android:background="#999999" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+       
+
+        <TextView
+            android:id="@+id/tv_local_devices"
+            android:layout_width="match_parent"
+            android:layout_height="40dip"
+            android:layout_marginTop="0dip"
+            android:background="@drawable/bt_bg_selector"
+            android:clickable="true"
+            android:gravity="center"
+            android:onClick="click"
+            android:text="@string/default_btname"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/txtProgressPrompt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_local_devices"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:singleLine="true"
+            android:textColor="#ffffff"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/btnPhoneBook"
+            android:layout_width="match_parent"
+            android:layout_height="50dip"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/bt_bg_selector"
+            android:clickable="true"
+            android:contentDescription="@string/desc"
+            android:gravity="center"
+            android:onClick="onPhoneBook"
+            android:text="@string/sync_mobile_number"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+    </RelativeLayout>
+
+</LinearLayout>

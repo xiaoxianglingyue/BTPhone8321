@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/incoming_bg">
+
+    <ImageView
+        android:id="@+id/iv_answer"
+        android:layout_width="120dip"
+        android:layout_height="120dip"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="23dp"
+        android:layout_marginLeft="90dip"
+        android:src="@drawable/answer_bg_selector" 
+        android:onClick="click"
+        android:clickable="true"
+        android:contentDescription="@string/desc"/>
+
+    <ImageView
+        android:id="@+id/iv_hangup"
+        android:layout_width="120dip"
+        android:layout_height="120dip"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/iv_answer"
+        android:src="@drawable/hungup_bg_selector"
+        android:onClick="click"
+        android:clickable="true"
+        android:layout_marginRight="90dip"
+        android:contentDescription="@string/desc"/>
+
+    <TextView
+        android:id="@+id/tv_calling_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        />
+
+    <TextView
+        android:id="@+id/tv_calling_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_calling_name"
+        android:layout_marginTop="15dp"
+        android:textColor="#ffffff"
+        android:textSize="25sp" 
+        android:layout_centerHorizontal="true"
+        />
+
+</RelativeLayout>

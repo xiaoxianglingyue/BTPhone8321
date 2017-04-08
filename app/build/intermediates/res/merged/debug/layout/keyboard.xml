@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical" >
+
+    <View
+        android:id="@+id/iv_line"
+        android:layout_width="match_parent"
+        android:layout_height="2dip"
+        android:layout_marginTop="0dip"
+        android:background="#50191919" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <EditText
+            android:id="@+id/tv_phone_number"
+            android:layout_width="match_parent"
+            android:layout_height="40dip"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="15dip"
+            android:background="@drawable/et_bg_dial"
+            android:paddingLeft="10dip"
+            android:ellipsize="start"
+            android:singleLine="true" 
+            android:textSize="25sp" 
+            android:textColor="#000000"
+            android:inputType="text"
+            android:drawableRight="@drawable/iv_bg_selector"
+            android:paddingRight="10dip"
+            android:maxWidth="200dip"/>
+
+        <ImageView
+            android:id="@+id/iv_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/iv_bg_selector" 
+            android:layout_marginTop="6.5dip"
+            android:layout_marginRight="15dip"
+            android:layout_gravity="right"
+            android:paddingRight="10dip"
+            android:clickable="true"
+            android:onClick="click"
+            android:contentDescription="@string/desc"/>
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" 
+        >
+
+        <LinearLayout
+            android:layout_width="@dimen/keybord"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="4dip"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="10dip"
+            android:layout_marginTop="4dip"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/iv_one"
+                    android:layout_width="@dimen/iv_dial_w"
+                    android:layout_height="@dimen/iv_dial"
+                    android:clickable="true"
+                    android:contentDescription="@string/desc"
+                    android:onClick="click"
+                    android:src="@drawable/one_selector" />
+
+               
+
+                <ImageView
+                    android:id="@+id/iv_two"
+                    android:layout_width="@dimen/iv_dial_w"
+                    android:layout_height="@dimen/iv_dial"
+                    android:clickable="true"
+                    android:contentDescription="@string/desc"
+                    android:onClick="click"
+                    android:layout_marginLeft="10dip"
+                    android:src="@drawable/two_selector" />
+
+              
+
+                <ImageView
+                    android:id="@+id/iv_three"
+                    android:layout_width="@dimen/iv_dial_w"
+                    android:layout_height="@dimen/iv_dial"
+                    android:clickable="true"
+                    android:contentDescription="@string/desc"
+                    android:onClick="click"
+                    android:layout_marginLeft="10dip"
+                    android:src="@drawable/three_selector" />
+            </LinearLayout>
+
+          
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/iv_four"
+                    android:layout_width="@dimen/iv_dial_w"
+                    android:layout_height="@dimen/iv_dial"
+                    android:clickable="true"
+                    android:contentDescription="@string/desc"
+                    android:onClick="click"
+                    android:src="@drawable/four_selector" />
+
+             
+                <ImageView
+                    android:id="@+id/iv_five"
+                    android:layout_width="@dimen/iv_dial_w"
+                    android:layout_height="@dimen/iv_dial"
+                    android:clickable="true"
+                    android:layout_marginLeft="10dip"
+                    android:contentDescription="@string/desc"
+                    android:onClick="click"
+                    android:src="@drawable/five_selector" />
+
+              
+
+                <ImageView
+                    android:id="@+id/iv_sex"
+                     android:layout_width="@dimen/iv_dial_w"
+                    android:layout_height="@dimen/iv_dial"
+                    android:clickable="true"
+                    android:contentDescription="@string/desc"
+                    android:onClick="click"
+                    android:layout_marginLeft="10dip"
+                    android:src="@drawable/sex_selector" />
+            </LinearLayout>
+
+            
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/iv_seven"
+                     android:layout_width="@dimen/iv_dial_w"
+                    android:layout_height="@dimen/iv_dial"
+                    android:clickable="true"
+                    android:contentDescription="@string/desc"
+                    android:onClick="click"
+                    android:src="@drawable/seven_selector" />
+
+          
+
+                <ImageView
+                    android:id="@+id/iv_eight"
+                    android:layout_width="@dimen/iv_dial_w"
+                    android:layout_height="@dimen/iv_dial"
+                    android:layout_marginLeft="10dip"
+                    android:clickable="true"
+                    android:contentDescription="@string/desc"
+                    android:onClick="click"
+                    android:src="@drawable/eight_selector" />
+
+             
+
+                <ImageView
+                    android:id="@+id/iv_nine"
+                     android:layout_width="@dimen/iv_dial_w"
+                    android:layout_height="@dimen/iv_dial"
+                    android:layout_marginLeft="10dip"
+                    android:clickable="true"
+                    android:contentDescription="@string/desc"
+                    android:onClick="click"
+                    android:src="@drawable/nine_selector" />
+            </LinearLayout>
+
+           
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+
+                <ImageView
+                    android:id="@+id/iv_star"
+                    android:layout_width="@dimen/iv_dial_w"
+                    android:layout_height="@dimen/iv_dial"
+                    android:clickable="true"
+                    android:contentDescription="@string/desc"
+                    android:onClick="click"
+                    android:src="@drawable/star_selector" />
+
+               
+
+                <ImageView
+                    android:id="@+id/iv_zero"
+                    android:layout_width="@dimen/iv_dial_w"
+                    android:layout_height="@dimen/iv_dial"
+                    android:layout_marginLeft="10dip"
+                    android:clickable="true"
+                    android:contentDescription="@string/desc"
+                    android:onClick="click"
+                    android:src="@drawable/zero_selector" />
+
+
+                <ImageView
+                    android:id="@+id/iv_well"
+                   android:layout_width="@dimen/iv_dial_w"
+                    android:layout_height="@dimen/iv_dial"
+                    android:layout_marginLeft="10dip"
+                    android:clickable="true"
+                    android:contentDescription="@string/desc"
+                    android:onClick="click"
+                    android:src="@drawable/well_selector" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_marginLeft="0dip" >
+
+            <ImageView
+                android:id="@+id/iv_head_portrait"
+                android:layout_width="100dip"
+                android:layout_height="120dip"
+                android:layout_marginLeft="16dip"
+                android:layout_marginTop="8dip"
+                android:contentDescription="@string/desc"
+                android:src="@drawable/come_contact" />
+
+            <TextView
+                android:id="@+id/phone_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/iv_head_portrait"
+                android:layout_marginTop="10dip"
+                android:textColor="#ffffff"
+                android:textSize="18sp" 
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="15dip"
+                />
+            
+              <TextView
+                android:id="@+id/save_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/phone_name"
+                android:layout_marginTop="10dip"
+                android:textColor="#ffffff"
+                android:textSize="18sp" 
+                android:onClick="click"
+                android:clickable="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="5dip"
+                />
+              <LinearLayout
+                  android:id="@+id/dialcall"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_below="@id/save_number"
+                  android:layout_alignParentBottom="true"
+                  android:layout_marginTop="30dip"
+                  android:visibility="visible">
+            <ImageView
+                android:id="@+id/iv_call"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:contentDescription="@string/desc"
+                android:onClick="click"
+                android:layout_marginBottom="5dip"
+                android:src="@drawable/call_selector"               
+                 />
+            </LinearLayout>
+            <LinearLayout
+                  android:id="@+id/hungcall"
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:layout_below="@id/save_number"
+                  android:layout_alignParentBottom="true"
+                  android:layout_marginTop="30dip"
+                  android:visibility="gone">
+            <ImageView
+                android:id="@+id/iv_hung"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                android:contentDescription="@string/desc"
+                android:onClick="click"
+                android:layout_marginBottom="5dip"
+                android:src="@drawable/hungup_selector"               
+                 />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

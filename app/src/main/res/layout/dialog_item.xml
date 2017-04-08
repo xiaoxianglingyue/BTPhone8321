@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" 
+    >
+
+    <ImageView
+        android:id="@+id/iv_item"
+        android:layout_width="30dip"
+        android:layout_height="30dip"
+        android:src="@drawable/image1" 
+        android:contentDescription="@string/desc"
+        android:layout_marginLeft="10dip"/>
+
+    <TextView
+        android:id="@+id/tv_dialog_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:layout_marginLeft="15dip"
+        android:layout_gravity="center_vertical"
+        />
+
+    <TextView
+        android:id="@+id/tv_dialog_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        android:layout_gravity="center_vertical"
+        />
+
+</LinearLayout>

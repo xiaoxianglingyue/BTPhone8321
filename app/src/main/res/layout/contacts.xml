@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/contact_search_bg"
+    android:orientation="vertical" 
+    >
+
+    <LinearLayout
+        android:id="@+id/contacts_list"
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:layout_marginLeft="10dip"
+        android:layout_marginRight="10dip"
+        android:background="@drawable/search_name_bg"
+        android:orientation="horizontal"
+        android:visibility="visible" >
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical" >
+
+            <EditText
+                android:id="@+id/et_search_contact"
+                android:layout_width="300dip"
+                android:layout_height="30dip"
+                android:layout_marginLeft="50dip"
+                android:background="@drawable/et_search_contact"
+                android:hint="@string/search_contact"
+                android:paddingLeft="10dip" />
+
+             <ImageView
+                 android:id="@+id/iv_delete_search"
+                 android:layout_width="25dip"
+                 android:layout_height="25dip"
+                 android:layout_marginRight="5dip"
+                 android:clickable="true"
+                 android:layout_marginTop="2.5dip"
+                 android:layout_gravity="right"
+                 android:contentDescription="@string/desc"
+                 android:onClick="click"
+                 android:src="@drawable/delete_search_selector" />
+
+        </FrameLayout>
+
+        <ImageView
+            android:id="@+id/iv_search_contact"
+            android:layout_width="35dip"
+            android:layout_height="35dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dip"
+            android:clickable="true"
+            android:contentDescription="@string/desc"
+            android:onClick="click"
+            android:src="@drawable/search_contact_selector" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/show_contact"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:visibility="visible" 
+        android:background="#000000">
+
+        <com.xintu.smartcar.btphone.view.MyListView
+            android:id="@+id/addresslist_listview"
+            android:layout_width="490dip"
+            android:layout_height="wrap_content"
+            android:cacheColorHint="@android:color/transparent"
+            android:layout_marginTop="2dip"
+            android:fadingEdge="none"
+            android:background="#000000" >
+        </com.xintu.smartcar.btphone.view.MyListView>
+
+        <com.xintu.smartcar.btphone.view.SideBar
+            android:id="@+id/addresslist_sidebar"
+            android:layout_width="25dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dip"
+            android:layout_alignParentRight="true"
+             />
+
+        <TextView
+            android:id="@+id/addresslist_dialog"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/textdialog_bg"
+            android:gravity="center"
+            android:text="A"
+            android:textColor="@color/white"
+            android:textSize="70sp"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_back_contact"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:background="@drawable/contact_detail"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/iv_back_contact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dip"
+            android:clickable="true"
+            android:contentDescription="@string/dial"
+            android:onClick="click"
+            android:src="@drawable/search_name_back" />
+
+        <TextView
+            android:id="@+id/contact_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="15dip"
+            android:text="TextView"
+            android:textColor="#ffffff"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lv_back_contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+    </LinearLayout>
+
+</LinearLayout>

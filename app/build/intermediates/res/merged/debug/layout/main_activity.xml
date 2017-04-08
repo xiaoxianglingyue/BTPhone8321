@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#999999"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:id="@+id/layout_title"
+        android:layout_width="125dip"
+        android:layout_height="match_parent"
+        android:background="@drawable/left_background"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/back"
+            android:layout_width="120dip"
+            android:layout_height="wrap_content"
+            android:clickable="true"
+            android:onClick="click" 
+            android:layout_gravity="center_horizontal">
+
+            <ImageView
+                android:id="@+id/back1"
+                android:layout_width="115dp"
+                android:layout_height="40dip"
+                android:layout_marginLeft="2dip"
+                android:layout_marginTop="-3dip"
+                android:contentDescription="@string/desc"
+                android:src="@drawable/back_bg_selector"/>
+        </LinearLayout>
+
+        <RadioGroup
+            android:id="@+id/main_radio"
+            android:layout_width="120dip"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="-1dip"
+            android:orientation="vertical" >
+
+            <RadioButton
+                android:id="@+id/rbtn_keyboard"
+                android:layout_width="115dip"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:background="@drawable/keyboard1"
+                android:button="@null"
+                android:layout_gravity="center_horizontal"
+                android:onClick="click"
+                android:tag="radio_button0"
+                android:textSize="15sp" />
+            
+            <RadioButton
+                android:id="@+id/rbtn_contacts"
+                android:layout_width="115dip"
+                android:layout_height="0dip"
+                android:layout_marginLeft="0dip"
+                android:layout_weight="1"
+                android:background="@drawable/contactss2"
+                android:button="@null"
+                android:checked="true"
+                android:layout_gravity="center_horizontal"
+                android:onClick="click"
+                android:tag="radio_button1"
+                android:layout_marginTop="2dip"
+                android:textSize="15sp" />
+
+          
+
+            <RadioButton
+                android:id="@+id/rbtn_btdevice"
+                android:layout_width="115dip"
+                android:layout_height="0dip"
+                android:layout_weight="1"
+                android:background="@drawable/bluetooth_devices2"
+                android:button="@null"
+                android:layout_gravity="center_horizontal"
+                android:onClick="click"
+                android:tag="radio_button2"
+                android:layout_marginTop="2dip"
+                android:textSize="15sp" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_keyboard"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:visibility="visible" >
+
+        <include layout="@layout/keyboard" />
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/layout_contacts"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal" 
+        android:visibility="gone">
+
+        <include layout="@layout/contacts" />
+    </LinearLayout>
+
+   
+
+    
+
+    <LinearLayout
+        android:id="@+id/layout_btdevices"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <include layout="@layout/bluetooth_devices" />
+    </LinearLayout>
+
+</LinearLayout>

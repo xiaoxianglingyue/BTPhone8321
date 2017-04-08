@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="_green">#00ff00</color>
+    <color name="blue">#3498db</color>
+    <color name="blue_dark">#2980b9</color>
+    <color name="darkgrey">#A9A9A9</color>
+    <color name="deepgray">#ff3b3b3b</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="green">#2ecc71</color>
+    <color name="green_dark">#27ae60</color>
+    <color name="lightgray">#D3D3D3</color>
+    <color name="orange">#e67e22</color>
+    <color name="orange_dark">#d35400</color>
+    <color name="purple">#9b59b6</color>
+    <color name="purple_dark">#8e44ad</color>
+    <color name="red">#e74c3c</color>
+    <color name="red_dark">#c0392b</color>
+    <color name="silver">#bdc3c7</color>
+    <color name="slategrey">#708090</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#f1c40f</color>
+    <color name="yellow_dark">#f39c12</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="iv_dial">72dip</dimen>
+    <dimen name="iv_dial1">65dip</dimen>
+    <dimen name="iv_dial_w">110dip</dimen>
+    <dimen name="keybord">350dip</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="already_pari_mobile">已连接的手机</string>
+    <string name="already_search_devices">已搜索到的手机</string>
+    <string name="app_name">BTPhone</string>
+    <string name="call_time">通话时间</string>
+    <string name="come_call">来电</string>
+    <string name="default_btname">H25302</string>
+    <string name="del_device">清空列表</string>
+    <string name="desc">图片描述</string>
+    <string name="devices_title">已连接到手机</string>
+    <string name="dial">正在拨号</string>
+    <string name="dialed_calls">已拨电话</string>
+    <string name="dialog_del">是否要清空设备列表？</string>
+    <string name="dialog_hint">温馨提示</string>
+    <string name="enter_pairing_mode">进入配对模式</string>
+    <string name="get_series">请在网络连接状态点击获取序列号</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint">机器内已检测到高德离线地图</string>
+    <string name="missed_calls">未接电话</string>
+    <string name="native_series">本机序列号：</string>
+    <string name="pari_devices">已配对设备</string>
+    <string name="received_calls">已接电话</string>
+    <string name="search_contact">搜索联系人</string>
+    <string name="search_devices">搜索手机</string>
+    <string name="series1">330327***</string>
+    <string name="series2">330328***</string>
+    <string name="series3">330329***</string>
+    <string name="series4">330010***</string>
+    <string name="series5">330020***</string>
+    <string name="series6">330030***</string>
+    <string name="series_number">本机序列号：330327**********</string>
+    <string name="sync_mobile_number">同步手机号码</string>
+    <string name="text">  注：\n
+            1.此序列号为设备唯一识别编码，供出厂设置使用，获取后不可撤销，请慎用！\n
+            2.获取序列号之后，请及时在设备上贴上对应序列号标签，以免混淆。</string>
+    <string name="title_activity_dial">DialActivity</string>
+    <string name="title_activity_incoming">IncomingActivity</string>
+    <string name="unknown_number">未知号码</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+    <item name="android:windowNoTitle">true</item> 
+    <item name="android:windowBackground">@drawable/bg_splash</item>
+        All customizations that are NOT specific to a particular API-level can go here.
+    </style>
+    <style name="Theme.Start" parent="android:Theme">  
+    <item name="android:windowBackground">@drawable/bg_splash</item>  
+    <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+<item name="android:windowFrame">@null</item><!--边框-->
+<item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+<item name="android:windowIsTranslucent">false</item><!--半透明-->
+<item name="android:windowNoTitle">true</item>
+<item name="android:background">@android:color/black</item>
+<item name="android:windowBackground">@android:color/black</item>
+<item name="android:backgroundDimEnabled">false</item><!--模糊-->
+</style>
+    <style name="smsDialog" parent="@android:style/Theme.Translucent">  
+        <item name="android:windowFrame">@null</item>  
+        <item name="android:windowNoTitle">true</item>   
+        <!-- <item name="android:windowBackground">#ffffff</item> -->  
+        <item name="android:windowIsFloating">true</item>  
+        <item name="android:windowContentOverlay">@null</item>  
+    </style>
+    <style name="start.activity" parent="android:Theme">  
+    <item name="android:windowBackground">@drawable/main</item>  
+    <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>

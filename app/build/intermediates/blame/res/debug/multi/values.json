@@ -1,0 +1,1313 @@
+[
+    {
+        "outputFile": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 40,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 38,
+                    "endOffset": 130
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endColumn": 38,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 135,
+                    "endColumn": 43,
+                    "endOffset": 174
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 226,
+                        "endColumn": 43,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 179,
+                    "endColumn": 42,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 42,
+                        "endOffset": 854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 44,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 871,
+                        "endColumn": 44,
+                        "endOffset": 911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 43,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 704,
+                        "endColumn": 43,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 39,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 39,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 44,
+                    "endOffset": 391
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 44,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 396,
+                    "endColumn": 43,
+                    "endOffset": 435
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 760,
+                        "endColumn": 43,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 440,
+                    "endColumn": 40,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 40,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endColumn": 45,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 313,
+                        "endColumn": 45,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 40,
+                    "endOffset": 563
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 532,
+                        "endColumn": 40,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 568,
+                    "endColumn": 45,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 574,
+                        "endColumn": 45,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 37,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 449,
+                        "endColumn": 37,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 42,
+                    "endOffset": 690
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 42,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 695,
+                    "endColumn": 40,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 621,
+                        "endColumn": 40,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 736,
+                    "endColumn": 43,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 928,
+                        "endColumn": 43,
+                        "endOffset": 967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endColumn": 39,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 39,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 40,
+                    "endOffset": 856
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 40,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 861,
+                    "endColumn": 45,
+                    "endOffset": 902
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 45,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 907,
+                    "endColumn": 57,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endColumn": 55,
+                    "endOffset": 1016
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1021,
+                    "endColumn": 39,
+                    "endOffset": 1056
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endColumn": 39,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1061,
+                    "endColumn": 40,
+                    "endOffset": 1097
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 40,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1102,
+                    "endColumn": 42,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 42,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 40,
+                    "endOffset": 1181
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 40,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1186,
+                    "endColumn": 52,
+                    "endOffset": 1234
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1239,
+                    "endColumn": 54,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 54,
+                        "endOffset": 879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 58,
+                    "endOffset": 1348
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 714,
+                        "endColumn": 58,
+                        "endOffset": 768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1353,
+                    "endColumn": 44,
+                    "endOffset": 1393
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 44,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1398,
+                    "endColumn": 42,
+                    "endOffset": 1436
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1720,
+                        "endColumn": 42,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1441,
+                    "endColumn": 40,
+                    "endOffset": 1477
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1764,
+                        "endColumn": 40,
+                        "endOffset": 1800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1482,
+                    "endColumn": 49,
+                    "endOffset": 1527
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1339,
+                        "endColumn": 49,
+                        "endOffset": 1384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1532,
+                    "endColumn": 43,
+                    "endOffset": 1571
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endColumn": 43,
+                        "endOffset": 561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1576,
+                    "endColumn": 37,
+                    "endOffset": 1609
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 37,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1614,
+                    "endColumn": 48,
+                    "endOffset": 1658
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 48,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1663,
+                    "endColumn": 37,
+                    "endOffset": 1696
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endColumn": 37,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1701,
+                    "endColumn": 45,
+                    "endOffset": 1742
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 981,
+                        "endColumn": 45,
+                        "endOffset": 1022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1747,
+                    "endColumn": 49,
+                    "endOffset": 1792
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1806,
+                        "endColumn": 49,
+                        "endOffset": 1851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1797,
+                    "endColumn": 44,
+                    "endOffset": 1837
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1857,
+                        "endColumn": 44,
+                        "endOffset": 1897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1842,
+                    "endColumn": 53,
+                    "endOffset": 1891
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1903,
+                        "endColumn": 53,
+                        "endOffset": 1952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1896,
+                    "endColumn": 54,
+                    "endOffset": 1946
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1233,
+                        "endColumn": 54,
+                        "endOffset": 1283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1951,
+                    "endColumn": 52,
+                    "endOffset": 1999
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 52,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2004,
+                    "endColumn": 46,
+                    "endOffset": 2046
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1672,
+                        "endColumn": 46,
+                        "endOffset": 1714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2051,
+                    "endColumn": 45,
+                    "endOffset": 2092
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 45,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2097,
+                    "endColumn": 48,
+                    "endOffset": 2141
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1289,
+                        "endColumn": 48,
+                        "endOffset": 1333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2146,
+                    "endColumn": 46,
+                    "endOffset": 2188
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 46,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2193,
+                    "endColumn": 47,
+                    "endOffset": 2236
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 932,
+                        "endColumn": 47,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2241,
+                    "endColumn": 48,
+                    "endOffset": 2285
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 664,
+                        "endColumn": 48,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2290,
+                    "endColumn": 47,
+                    "endOffset": 2333
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 302,
+                        "endColumn": 47,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 2338,
+                    "endColumn": 45,
+                    "endOffset": 2379
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1390,
+                        "endColumn": 45,
+                        "endOffset": 1431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2384,
+                    "endColumn": 45,
+                    "endOffset": 2425
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1437,
+                        "endColumn": 45,
+                        "endOffset": 1478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2430,
+                    "endColumn": 45,
+                    "endOffset": 2471
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1484,
+                        "endColumn": 45,
+                        "endOffset": 1525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2476,
+                    "endColumn": 45,
+                    "endOffset": 2517
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1531,
+                        "endColumn": 45,
+                        "endOffset": 1572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2522,
+                    "endColumn": 45,
+                    "endOffset": 2563
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1578,
+                        "endColumn": 45,
+                        "endOffset": 1619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2568,
+                    "endColumn": 45,
+                    "endOffset": 2609
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1625,
+                        "endColumn": 45,
+                        "endOffset": 1666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2614,
+                    "endColumn": 64,
+                    "endOffset": 2674
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 64,
+                        "endOffset": 1088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2679,
+                    "endColumn": 53,
+                    "endOffset": 2728
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 774,
+                        "endColumn": 53,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2733,
+                    "endLine": 62,
+                    "endColumn": 53,
+                    "endOffset": 2864
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endLine": 25,
+                        "endColumn": 53,
+                        "endOffset": 1227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2869,
+                    "endColumn": 60,
+                    "endOffset": 2925
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 390,
+                        "endColumn": 60,
+                        "endOffset": 446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2930,
+                    "endColumn": 68,
+                    "endOffset": 2994
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 68,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2999,
+                    "endColumn": 47,
+                    "endOffset": 3042
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 567,
+                        "endColumn": 47,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3047,
+                    "endLine": 72,
+                    "endColumn": 12,
+                    "endOffset": 3333
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 3338,
+                    "endLine": 77,
+                    "endColumn": 12,
+                    "endOffset": 3605
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 5,
+                        "startOffset": 523,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3610,
+                    "endLine": 81,
+                    "endColumn": 12,
+                    "endOffset": 3796
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 801,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3801,
+                    "endLine": 90,
+                    "endColumn": 8,
+                    "endOffset": 4296
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\dialog.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 0,
+                        "startOffset": 13,
+                        "endLine": 9,
+                        "endColumn": 8,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4301,
+                    "endLine": 97,
+                    "endColumn": 12,
+                    "endOffset": 4693
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\style.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4698,
+                    "endLine": 101,
+                    "endColumn": 12,
+                    "endOffset": 4882
+                },
+                "from": {
+                    "file": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 996,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1183
+                    }
+                }
+            }
+        ]
+    }
+]

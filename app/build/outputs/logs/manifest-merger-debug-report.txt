@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:2:1-107:12
+	package
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.REORDER_TASKS
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:15:5-72
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:15:22-69
+uses-permission#android.permission.INTERNET
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:18:5-84
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:18:22-81
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:19:5-80
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:19:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:21:22-75
+application
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:24:5-105:19
+	android:label
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:28:9-41
+	android:allowBackup
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:26:9-35
+	android:icon
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:27:9-45
+	android:theme
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:29:9-40
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:25:9-81
+activity#com.xintu.smartcar.btphone.MainActivity
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:30:9-41:20
+	android:screenOrientation
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:35:13-57
+	android:label
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:33:13-45
+	android:launchMode
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:34:13-48
+	android:configChanges
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:31:13-67
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.xintu.smartcar.btphone.DialActivity
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:42:9-48:20
+	android:screenOrientation
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:46:13-57
+	android:label
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:45:13-56
+	android:configChanges
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:44:13-63
+	android:theme
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:47:13-50
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:43:13-67
+service#com.xintu.smartcar.btphone.service.ConnService
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:50:9-59:19
+	android:exported
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:52:13-36
+	android:permission
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:53:13-64
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:51:13-74
+intent-filter#com.xintu.smartcar.btphone.service.ConnService
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:54:13-58:29
+action#com.xintu.smartcar.btphone.service.ConnService
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:55:17-57:47
+	android:exported
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:57:21-44
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:56:21-82
+service#com.xintu.smartcar.btphone.service.AIDLService
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:60:9-69:19
+	android:exported
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:62:13-36
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:61:13-74
+intent-filter#com.xintu.smartcar.btphone.service.action
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:64:13-68:29
+action#com.xintu.smartcar.btphone.service.action
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:65:17-67:23
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:66:21-77
+activity#com.xintu.smartcar.btphone.service.IncomingFloatActivity
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:71:9-73:64
+	android:theme
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:73:13-61
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:72:13-84
+service#com.xintu.smartcar.btphone.service.DialFloatService
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:75:9-87
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:75:18-84
+receiver#com.xintu.smartcar.btphone.receiver.PhoneReceiver
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:77:9-91:20
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:77:19-83
+intent-filter#com.xintu.cloudmirror.closeallprocess+com.xintu.cloudmirror.leftbutton.closebtphone+com.xintu.cloudmirror.main.closebtphone+com.xintu.cloudmirror.main.speechdialog+com.xintu.cloudmirror.main.start_bt_req+com.xintu.cloudmirror.maintophone+com.xintu.cloudmirror.maintophone.selectcancel+com.xintu.cloudmirror.maintophone.selectnum
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:80:13-90:29
+action#com.xintu.cloudmirror.maintophone
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:81:17-76
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:81:25-73
+action#com.xintu.cloudmirror.closeallprocess
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:82:17-80
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:82:25-77
+action#com.xintu.cloudmirror.main.closebtphone
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:83:17-82
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:83:25-79
+action#com.xintu.cloudmirror.maintophone.selectnum
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:84:17-86
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:84:25-83
+action#com.xintu.cloudmirror.maintophone.selectcancel
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:85:17-89
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:85:25-86
+action#com.xintu.cloudmirror.main.speechdialog
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:86:17-82
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:86:25-79
+action#com.xintu.cloudmirror.leftbutton.closebtphone
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:87:17-88
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:87:25-85
+action#com.xintu.cloudmirror.main.start_bt_req
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:88:17-82
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:88:25-79
+activity#com.xintu.smartcar.btphone.IncomingActivity
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:93:9-99:20
+	android:screenOrientation
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:97:13-57
+	android:label
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:96:13-60
+	android:configChanges
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:95:13-63
+	android:theme
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:98:13-50
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:94:13-71
+activity#com.xintu.smartcar.btphone.DialogActivity
+ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:100:9-104:48
+	android:screenOrientation
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:103:13-57
+	android:configChanges
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:102:13-63
+	android:theme
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:104:13-45
+	android:name
+		ADDED from F:\android studio\BTPhone83211\app\src\main\AndroidManifest.xml:101:13-69

@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\cancel_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_select_bg.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\btn_select_bg.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\synccontact.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\synccontact.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contacts_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\contacts_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\nine_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\nine_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\five_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\five_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\clearlist.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\clearlist.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\get_sernum_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\get_sernum_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_item_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\bg_item_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\contactss_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\contactss_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\eight_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\eight_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\searchbar_et_bg.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\searchbar_et_bg.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sex_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\sex_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hint_continecopy_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\hint_continecopy_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_bg_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\iv_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sidebar_background.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\sidebar_background.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\listview_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\listview_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_mute_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\open_mute_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dial_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\dial_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bluebooth_devices_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\bluebooth_devices_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_window.jpg",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\bg_window.jpg"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_devices.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\search_devices.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seven_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\seven_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bgcolor.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\bgcolor.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\keyboard_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\keyboard_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\well_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\well_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_localdata_bg.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\btn_localdata_bg.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sync_mobilenumber_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\sync_mobilenumber_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hungup_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\hungup_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\three_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\three_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_name_back.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\search_name_back.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\one_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\one_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\star_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\star_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\boda_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\boda_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_bg_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\back_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_mobile_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\search_mobile_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\four_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\four_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\two_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\two_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ensure_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\ensure_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zero_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\zero_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_contact_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\search_contact_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delete_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\delete_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textdialog_bg.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\textdialog_bg.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mute_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\mute_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_addresslist_bg.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\btn_addresslist_bg.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hint_deletemap_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\hint_deletemap_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_record_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\call_record_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bt_bg_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\bt_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\layout_bg_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\layout_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\call_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-hdpi\\call_selector.xml"
+    }
+]

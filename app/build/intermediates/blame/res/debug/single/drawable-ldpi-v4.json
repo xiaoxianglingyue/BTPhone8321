@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\hungup_bg_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-ldpi\\hungup_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\bt_bg_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-ldpi\\bt_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\answer_bg_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-ldpi\\answer_bg_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\delete_search_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-ldpi\\delete_search_selector.xml"
+    }
+]

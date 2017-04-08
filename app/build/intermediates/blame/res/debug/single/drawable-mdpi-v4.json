@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cancel_devices_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-mdpi\\cancel_devices_selector.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cancel_dial_selector.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\drawable-mdpi\\cancel_dial_selector.xml"
+    }
+]

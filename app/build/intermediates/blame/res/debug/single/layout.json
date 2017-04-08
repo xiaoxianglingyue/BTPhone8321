@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_item.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\dialog_item.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\contacts.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\device_name.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\dialog.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_item.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\contact_item.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_delete.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\dialog_delete.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daily_listview_footer.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\daily_listview_footer.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nopeidui_item.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\nopeidui_item.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\float_incoming.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\float_incoming.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_not.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\dialog_not.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\float_dial.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\float_dial.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_activity.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\main_activity.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_has.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\dialog_has.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth_devices_item.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\bluetooth_devices_item.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\daily_listview_head.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\daily_listview_head.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_hint.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\dialog_hint.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bluetooth_devices.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\bluetooth_devices.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_contact_item.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\select_contact_item.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dial.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\activity_dial.xml"
+    },
+    {
+        "merged": "F:\\android studio\\BTPhone83211\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_incoming.xml",
+        "source": "F:\\android studio\\BTPhone83211\\app\\src\\main\\res\\layout\\activity_incoming.xml"
+    }
+]

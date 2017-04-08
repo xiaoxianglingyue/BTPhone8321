@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:background="#000000" >
+
+
+    <RelativeLayout
+        android:id="@+id/head_contentLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginRight="45dp"
+        >
+
+<TextView
+    android:id="@+id/title"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="新图电话联系人" 
+    android:layout_centerInParent="true"
+    android:textStyle="bold|italic"
+    android:textColor="#ffffff"
+    android:textSize="30sp" />
+
+<TextView
+    android:id="@+id/writer"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="" 
+   android:layout_marginTop="30dp"
+    android:textStyle="bold|italic"
+    android:layout_alignParentRight="true"
+    android:textColor="#eeeeeeee"
+    android:layout_below="@+id/title"
+    android:textSize="20sp" />
+    </RelativeLayout>
+
+</LinearLayout>

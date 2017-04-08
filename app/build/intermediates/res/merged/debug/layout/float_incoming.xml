@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/float_background"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/tv_calling_name"
+            android:layout_width="150dip"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="5dip"
+            android:layout_marginTop="3dp"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:scrollHorizontally="true"
+            android:singleLine="true"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/tv_calling_number"
+            android:layout_width="150dip"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_calling_name"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="3dp"
+            android:ellipsize="marquee"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:scrollHorizontally="true"
+            android:singleLine="true"
+            android:textColor="#ffffff"
+            android:textSize="18sp"
+            android:gravity="center"  />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/iv_answer_service"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:layout_marginLeft="40dip"
+        android:layout_marginTop="-3dip"
+        android:clickable="true"
+        android:contentDescription="@string/desc"
+        android:onClick="click"
+        android:src="@drawable/answer_bg_selector" />
+
+    <ImageView
+        android:id="@+id/iv_hangup_service"
+        android:layout_width="60dip"
+        android:layout_height="60dip"
+        android:layout_marginLeft="20dip"
+        android:layout_marginTop="-3dip"
+        android:clickable="true"
+        android:contentDescription="@string/desc"
+        android:onClick="click"
+        android:src="@drawable/hungup_bg_selector" />
+
+</LinearLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="360dip"
+        android:layout_height="120dip"
+        android:background="@drawable/bg_has_diglog"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/sernum_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dialog_hint"
+            android:textColor="#ffffff"
+            android:textSize="18sp" 
+            android:paddingLeft="20dip"
+            android:paddingTop="10dip"
+            android:paddingBottom="10dip"
+            android:background="#000000"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/sernum_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dialog_del"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/ok_del"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ensure_selector"
+                android:clickable="true"
+                android:contentDescription="@string/desc"
+                android:onClick="click" />
+
+            <ImageView
+                android:id="@+id/cancel_del"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:background="@drawable/cancel_selector"
+                android:clickable="true"
+                android:contentDescription="@string/desc"
+                android:onClick="click" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

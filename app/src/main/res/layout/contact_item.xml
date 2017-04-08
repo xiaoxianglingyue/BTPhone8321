@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" 
+    android:background="#000000">
+
+    <TextView
+        android:id="@+id/listview_tv_catlog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_black_item"
+        android:gravity="center_vertical"
+        android:paddingLeft="30dp"
+        android:text="A"
+        android:textColor="#ffffff"
+        android:textSize="15sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dip"
+        android:background="@drawable/listview_selector" 
+        >
+
+        <ImageView
+            android:id="@+id/head_portrait"
+            android:layout_width="30dip"
+            android:layout_height="30dip"
+            android:contentDescription="@string/desc"
+            android:layout_marginLeft="5dip"
+           android:layout_centerVertical="true"
+            android:src="@drawable/person" />
+
+        <TextView
+            android:id="@+id/contact_item_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@+id/head_portrait"
+            android:text="没有数据"
+            android:layout_centerVertical="true"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

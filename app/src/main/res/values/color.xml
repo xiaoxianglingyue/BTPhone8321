@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#2ecc71</color>
+    <color name="_green">#00ff00</color>
+    <color name="green_dark">#27ae60</color>
+    <color name="blue">#3498db</color>
+    <color name="blue_dark">#2980b9</color>
+    <color name="orange">#e67e22</color>
+    <color name="orange_dark">#d35400</color>
+    <color name="yellow">#f1c40f</color>
+    <color name="yellow_dark">#f39c12</color>
+    <color name="red">#e74c3c</color>
+    <color name="red_dark">#c0392b</color>
+    <color name="purple">#9b59b6</color>
+    <color name="purple_dark">#8e44ad</color>
+    <color name="silver">#bdc3c7</color>
+    <color name="white">#ffffff</color>
+    <color name="gainsboro">#DCDCDC</color><!--淡灰色 -->
+    <color name="lightgray">#D3D3D3</color><!--亮灰色 -->
+    <color name="darkgrey">#A9A9A9</color><!--暗灰色 -->
+    <color name="deepgray">#ff3b3b3b</color><!--深灰色 -->
+    <color name="slategrey">#708090</color><!--灰石色 -->
+</resources>
